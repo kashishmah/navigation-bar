@@ -3,7 +3,7 @@
 A full-screen sliding navigation menu built using HTML, CSS, JavaScript, and jQuery.
 
 ## 🌐 Live Demo
-https://your-username.github.io/sliding-navigation-menu/
+https://kashishmah.github.io/navigation-bar/
 
 ## 🚀 Features
 - Full-screen sliding navigation panel
@@ -30,3 +30,4 @@ https://your-username.github.io/sliding-navigation-menu/
 - Add keyboard accessibility
 - Improve animation effects
 - Add close icon animation
+
